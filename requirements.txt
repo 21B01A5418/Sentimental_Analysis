@@ -1,10 +1,9 @@
-Streamlit==1.12.2
-Pillow==9.4.0
-ntlk==3.7
+streamlit==1.12.
+pillow==9.4.0
+nltk==3.7
 spacy==2.3.7
 scikit-learn==1.1.2
 joblib==1.3.1
-spacy>=2.2.0,<3.0.0
 https://github.com/explosion/spacy
 -models/release/download/en_core_webs_s
 m-2.2.0/en_core_web_sm-
